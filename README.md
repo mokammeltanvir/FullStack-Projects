@@ -6,6 +6,8 @@ Kindly find below a list of the GitHub repositories for my FullStack projects.
 
 ## 🔗 Project Links:
 
+- [![Twitter](https://img.shields.io/badge/Twitter--Clone--Project-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://github.com/mokammeltanvir/Twitter-Clone)
+
 - [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
 
 - [![Laravel](https://img.shields.io/badge/Ict3204--Ecommerce--web-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ICT3204-Project-Ecommerce)
